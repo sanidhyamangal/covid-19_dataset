@@ -28,6 +28,7 @@ tensorboard --logdir="."
 ```
 
 ### Credit for the dataset goes to:
+```
 @article{cohen2020covid,
   title={COVID-19 image data collection},
   author={Joseph Paul Cohen and Paul Morrison and Lan Dao},
@@ -35,3 +36,4 @@ tensorboard --logdir="."
   url={https://github.com/ieee8023/covid-chestxray-dataset},
   year={2020}
 }
+```
